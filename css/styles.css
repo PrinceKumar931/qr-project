@@ -1,0 +1,36 @@
+body{
+    background-color: lightblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+    width: 280px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.card
+{
+
+    box-sizing: border-box;
+    width: 320px;
+    background-color: white;
+    border-radius: 20px;
+    margin: 5% auto;
+
+}
+.text
+{
+    box-sizing: border-box;
+    width: 300px;
+    text-align: center;
+    padding: 20px;
+}
+#bold
+{
+    font-size: 1.2em;
+    font-weight: 800;
+}
+#normal
+{
+    color: grey;
+}
